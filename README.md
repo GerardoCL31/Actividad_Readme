@@ -1,4 +1,10 @@
-Holaaaaaa
+# README de Gerardo y Julia
+### "Un eslogan cualquiera" 
+1. Presentación
+2. El proyecto
+3. Instalación
+4. Instrucciones Operación
+5. Agradecimientos
 
 ![Un perrito muy gracioso ](https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/04/01/alemania-prohibira-los-perros-salchicha.jpeg)
 
