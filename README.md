@@ -1,7 +1,7 @@
 # README de Gerardo y Julia
 ### "Un eslogan cualquiera" 
-1. Presentación
-2. El proyecto
+1. Breve historia del Perro salchicha
+2. Cuidado de un perro
 3. Instalación
 4. Instrucciones Operación
 5. Agradecimientos
