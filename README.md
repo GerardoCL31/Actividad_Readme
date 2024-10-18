@@ -27,12 +27,21 @@ Con el tiempo, el perro salchicha se convirtió en una mascota popular por su le
 **Cuidar a un perro**
 
 Alimentación adecuada: Proporciónale comida de calidad y agua fresca.
+
 Ejercicio diario: Paseos y juegos para mantenerlo activo.
+
 Visitas al veterinario: Vacunas, desparasitaciones y chequeos regulares.
+
 Higiene: Báñalo, cepíllalo, corta sus uñas y cuida su salud dental.
+
 Entrenamiento y socialización: Enséñale comandos básicos y socialízalo con otros perros y personas.
+
 Atención emocional: Dedica tiempo para interactuar y evitar que se sienta solo.
+
 Espacio cómodo: Dale un lugar seguro y cómodo para descansar.
+
 Cuidado mental: Usa juguetes interactivos y cambia sus rutinas.
+
 Control de reproducción: Considera la esterilización o castración si no quieres criar.
+
 Identificación: Ponle un collar con placa y, si es posible, un microchip.
