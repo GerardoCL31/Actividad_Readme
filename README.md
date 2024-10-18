@@ -1,5 +1,7 @@
 # README de Gerardo y Julia
 ### "Un eslogan cualquiera" 
+
+0. El proyecto
 1. Breve historia del Perro salchicha
 2. Cuidado de un perro
 3. Instalación
@@ -7,8 +9,9 @@
 5. Agradecimientos
 
 ## El Proyecto
-    Este proyecto lo estamos haciendo Gerardo y yo (Julia) ya que estamos suuuuper motivados para trabajar con GitHub gracias a Paloma, la profesora más molona de todo CEI.La experiencia con este trabajo de momento es un poco rocambolesca, pero confiamos en el proceso y en la paciendia de Gerardo.
+ Este proyecto lo estamos haciendo Gerardo y yo (Julia) ya que estamos suuuuper motivados para trabajar con GitHub gracias a Paloma, la profesora más molona de todo CEI.La experiencia con este trabajo de momento es un poco rocambolesca, pero confiamos en el proceso y en la paciendia de Gerardo.
     En este README podemos observar un precioso y cuqui perrito Teckel:
+
 ![Un perrito muy gracioso ](https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/04/01/alemania-prohibira-los-perros-salchicha.jpeg)
 
 
