@@ -12,6 +12,10 @@ En este README podemos observar un precioso y cuqui perrito Teckel:
 
 ![Un perrito muy gracioso ](https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/04/01/alemania-prohibira-los-perros-salchicha.jpeg)
 
+## Instrucciones Operaciones:
+Este proyecto funciona de la siguiente manera: 
+Cada uno tiene que hacer actividades por su parte.
+Lo importante es que cada vez que se haga un cambio, hay que hacer "pull", luego un "git add .", un "git commit -m "" " y por ultimo un "git push".
 
 **Breve historia del Perro salchicha**
 
