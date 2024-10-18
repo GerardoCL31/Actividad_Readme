@@ -18,6 +18,7 @@ El nombre dachshund proviene del alemán: "dachs" significa tejón y "hund" sign
 Con el tiempo, el perro salchicha se convirtió en una mascota popular por su lealtad, inteligencia y personalidad vivaz. Hoy en día, es uno de los perros de compañía más queridos en el mundo.
 
 **Cuidar a un perro**
+
 Alimentación adecuada: Proporciónale comida de calidad y agua fresca.
 Ejercicio diario: Paseos y juegos para mantenerlo activo.
 Visitas al veterinario: Vacunas, desparasitaciones y chequeos regulares.
